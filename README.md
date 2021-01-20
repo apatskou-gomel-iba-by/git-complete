@@ -1,13 +1,13 @@
 # My internal project
-text 1
+Main text
 ## Section1
-text 2
+text 1
 ## Section2
-text 3
+text 2
 ## Section3
-text 4
+text 3
 ## Section4
-
+text 4
 ### Copyright
 
 2021 Git Complete
