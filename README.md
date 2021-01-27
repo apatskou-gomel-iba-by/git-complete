@@ -10,4 +10,4 @@ text 3
 text 4
 ### Copyright
 
-2021 Git Complete
+2021 Git Complete/ All rigth reserved.
